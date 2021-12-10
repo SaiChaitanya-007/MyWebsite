@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+
+
+
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+
+
+.top_container{
+  background-color: #94B3FD;
+  position: relative;
+  padding-top: 230px;
+}
+
+.tag{
+  text-decoration: underline;
+}
+.bottomcloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.topcloud{
+  position:absolute ;
+  top: 50px;
+  right: 400px;
+}
